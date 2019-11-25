@@ -1,1 +1,1 @@
-# game-of-life
+# game-of-life/nieukończone - nie wiem kiedy finał
