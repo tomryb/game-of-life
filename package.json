@@ -8,9 +8,7 @@
     "gulp-sourcemaps": "^2.6.5"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.13",
-    "gulp": "^4.0.2",
-    "gulp-serve": "^1.4.0"
+    "gulp": "^4.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
