@@ -1,4 +1,4 @@
-# game-of-life/nieukończone - nie wiem kiedy finał
+# game-of-life
 
 - Game of Life to tak zwana zero-player game, która rozwija się na podstawie swojego pierwotnego stanu.
 - Komórki powstają i umierają na dwuwymiarowej planszy, a ich stan uzależniony jest od ich otoczenia (ośmiu komórek będących ich sąsiadami):
